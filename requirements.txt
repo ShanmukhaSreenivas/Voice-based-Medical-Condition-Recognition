@@ -1,0 +1,12 @@
+pandas
+numpy
+matplotlib
+IPython
+librosa
+wordcloud
+nltk
+torchaudio
+spacy
+scispacy
+pysound
+seaborn
